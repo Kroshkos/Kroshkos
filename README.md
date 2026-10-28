@@ -110,7 +110,6 @@ $ whoami
 
 <a href="https://t.me/kroshkos"><img src="https://img.shields.io/badge/Telegram-пиши_в_личку-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=Kroshkos&style=flat-square&color=7c3aed&label=профилей+посмотрено" alt="Profile views"/>
 
 </div>
 
