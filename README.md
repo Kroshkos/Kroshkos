@@ -116,8 +116,6 @@ $ whoami
 <div align="center">
 
 <a href="https://t.me/kroshkos"><img src="https://img.shields.io/badge/Telegram-пиши_в_личку-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://github.com/Kroshkos/Zezar"><img src="https://img.shields.io/badge/Главный_проект-«ЦЕЗАРЬ»-7C3AED?style=flat-square&logo=fastapi&logoColor=white" alt="Zezar"/></a>
-<a href="https://github.com/Kroshkos/sait_patfiza"><img src="https://img.shields.io/badge/Открыт_к_сотрудничеству-✍️-fuchsia?style=flat-square" alt="Collab"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=Kroshkos&style=flat-square&color=7c3aed&label=профилей+посмотрено" alt="Profile views"/>
 
