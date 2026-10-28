@@ -6,8 +6,10 @@
 </picture>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kroshkos)
-[![GitHub stats](https://kroshkos-profile-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&icons_uri=https%3A%2F%2Fraw.githubusercontent.com%2FKroshkos%2FKroshkos%2Fassets%2Ficons%2F&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)](https://github.com/Kroshkos/Kroshkos)
-[![GitHub streaks](https://kroshkos-profile-streaks.vercel.app/streak.svg?theme=dark&hide_border=false&mode=daily&locale=en)](https://github.com/Kroshkos/Kroshkos)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Kroshkos/Zezar)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Kroshkos)
+[![TypeScript](https://img.shields.io/badge/TypeScript-React-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Kroshkos/studio)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Kroshkos)
 
 </div>
 
@@ -86,13 +88,15 @@ $ whoami
 </div>
 
 <details>
-<summary><b>🏆 Достижения и графики</b> (нажми, чтобы развернуть)</summary>
+<summary><b>🏆 Достижения, графики и streaks</b> (нажми, чтобы развернуть)</summary>
 <br/>
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Kroshkos&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kroshkos&theme=nord&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kroshkos&bg_color=0d1117&color=c084fc&line=7c3aed&point=e879f9&area=true&hide_border=true)](https://github.com/Kroshkos/Kroshkos)
+<br/>
+
+[![Contributors](https://contrib.rocks/image?repo=Kroshkos/Kroshkos)](https://github.com/Kroshkos/Kroshkos/graphs/contributors)
 
 </div>
 </details>
