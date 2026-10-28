@@ -103,13 +103,6 @@ $ whoami
 
 ---
 
-## 🧩 Топ виджетов
-
-<!--GITHUB-TOP-WIDGETS-Pinned-->
-<p align="center"><em>Здесь появятся твои лучшие репозитории — GitHub автоматически дополнит этот блок после включения опции <b>"Community Started"</b> в настройках профиля.</em></p>
-<!--GITHUB-TOP-WIDGETS-Pinned-->
-
----
 
 ## ☎️ На связи
 
